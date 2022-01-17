@@ -1,0 +1,32 @@
+.qr-page-wrapper {
+    padding: 20px;
+}
+
+.qr-page {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.qr-title {
+    font-size: 20px;
+    font-weight: bolder;
+    width: 100%;
+    text-align: center;
+}
+
+.qr-img {
+    width: 180px;
+    height: 180px;
+    margin: 20px 0 10px 0;
+}
+
+.qr-text {
+    width: 100%;
+    text-align: center;
+}
+
+.qr-button-content {
+    color: white;
+    padding: 10px;
+}
